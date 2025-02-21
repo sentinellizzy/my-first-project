@@ -1,0 +1,6 @@
+1. Learn ethical hacking techniques.
+2. Get certified in cybersecurity (e.g., CEH, CISSP, Security+).
+3. Improve network security skills.
+4. Practice penetration testing on virtual labs.
+5. Stay updated on cybersecurity threats.
+
